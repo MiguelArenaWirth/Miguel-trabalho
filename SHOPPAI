@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Shoppai</title>
+	<!--Vinculando o css externo -->
+	<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+	<header>
+		<h>Olá Bem-Vindo á Shoppai</h>
+	</header>
+
+	<section>
+		<p class="destaque">SHOPPAI: encontramos parentes distantes e sem contato </p>
+		<p>Através de poucas informações,te colocamos cara a cara com qualquer pessoa do Brasil, shoppai é o site para detectar e espionar mais usado entre várias gerações e no mês das bruxas contamos com um desconto de 40% </p>
+	</section>
+
+	<footer>
+		<p id="rodape"> Gmail:Pai.shoppai@gmail.com    Numero: 5544999582341</p>
+	</footer>
+</body>
+</html>
+
